@@ -1,2 +1,5 @@
 # WeatherWebApp-Springboot
 用springboot编写的一个微信天气小程序的后端代码
+
+请不要尝试init和change方法，因为请求的key绑定了我的服务器API
+你需要自己注册一个和风天气控制台的账号，创建一个key，并且在MyConfig里替换上你的key
